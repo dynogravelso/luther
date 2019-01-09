@@ -8,6 +8,8 @@
 * Analysis of the most important features affecting the pricing of ski resort passes.
 * A list of most undervalued ski resort passes and overvalued ski resort passes.
 
+[Project Luther](luther_ski.pdf)
+
 #### Project prompt is as follows:
 ## Backstory:
 
