@@ -1,8 +1,13 @@
 # Project Luther
-###### Weeks 2 and 3
 
 ![](Luther.jpg)
 
+## Results:
+
+* A first order regression model with a test R<sup>2</sup> 0.66.
+
+#### Project prompt is as follows:
+###### Weeks 2 and 3
 ## Backstory:
 
 Using information we scrape from the web, build linear regression models from which we can learn about movies, sports, or categories.
