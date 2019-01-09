@@ -5,6 +5,8 @@
 ## Results:
 
 * A first order regression model with a test R<sup>2</sup> 0.66.
+* Analysis of the most important features affecting the pricing of ski resort passes.
+* A list of most undervalued ski resort passes and overvalued ski resort passes.
 
 #### Project prompt is as follows:
 ###### Weeks 2 and 3
