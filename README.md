@@ -9,7 +9,6 @@
 * A list of most undervalued ski resort passes and overvalued ski resort passes.
 
 #### Project prompt is as follows:
-###### Weeks 2 and 3
 ## Backstory:
 
 Using information we scrape from the web, build linear regression models from which we can learn about movies, sports, or categories.
